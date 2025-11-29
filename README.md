@@ -14,13 +14,16 @@ Since this is a static website, no special installation or server setup is requi
 2.  Navigate: Go to the project root directory.
 3.  **Open:** Double-click `index.html` to open the website in your default web browser.
 
-The site can be viewed locally or deployed on any static hosting platform (e.g., GitHub Pages, Netlify).
+The site can be viewed locally or can be accessed throught the published link in the github.
 
 Technologies Used
 
-- HTML5 (Semantic Markup)
-- CSS3 (Custom Styles)
+- HTML (Semantic Markup)
+- CSS (Custom Styles)
 - JavaScript (Minor Enhancements)
-- Bootstrap 5.3 (Frontend Framework)
+- Bootstrap (Frontend Framework)
 - Bootstrap Icons (Icons)
 - AOS - Animate On Scroll (Optional Scroll Animations)
+
+  
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/c9c4f91e-602e-4259-b9fe-28e04b1bc5e3" />
