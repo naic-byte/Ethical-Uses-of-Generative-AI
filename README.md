@@ -25,5 +25,11 @@ Technologies Used
 - Bootstrap Icons (Icons)
 - AOS - Animate On Scroll (Optional Scroll Animations)
 
-  
+  Screenshot of the website
+
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/c9c4f91e-602e-4259-b9fe-28e04b1bc5e3" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/8d7a19a6-c52b-453e-9a58-fa71c44d5905" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/d1db5e9d-ca89-4af0-b70d-13fff90d185c" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/79bcfc21-cb25-4a80-8ed0-608d82f9ca5c" />
+
+
